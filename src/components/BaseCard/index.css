@@ -1,0 +1,8 @@
+.base-card {
+  border-radius: 5px;
+  box-shadow: 0 1px 16px 0 rgba(0, 0, 0, 0.09);
+  background-color: #ffffff;
+  min-height: 102px;
+  margin-bottom: 14px;
+  padding: 26px 21px;
+}

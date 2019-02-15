@@ -1,0 +1,16 @@
+.user-data-card {
+  color: #333333;
+  padding: 20px;
+}
+
+.user-data-card__empty-state {
+  font-size: 2rem;
+}
+
+.user-data-card__label {
+  font-size: 1.2rem;
+}
+
+.user-data-card__info-container {
+  font-size: 1.5rem;
+}
